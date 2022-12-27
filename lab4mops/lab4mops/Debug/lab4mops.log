@@ -1,0 +1,21 @@
+﻿Построение начато 25.11.2022 12:22:02.
+     1>Проект "F:\лабораторная номер 4 помогите!!!\lab4mops\lab4mops\lab4mops.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab4mops.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\lab4mops.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab4mops.lastbuildstate".
+     1>Построение проекта "F:\лабораторная номер 4 помогите!!!\lab4mops\lab4mops\lab4mops.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.64
